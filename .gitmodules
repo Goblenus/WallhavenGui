@@ -1,0 +1,3 @@
+[submodule "WallhavenApi"]
+	path = WallhavenApi
+	url = https://github.com/Goblenus/WallhavenApi.git
